@@ -1,0 +1,13 @@
+{
+  "Room-Names": [
+    "Parents Room",
+    "Rest Room",
+    "Party Room",
+    "Great Room",
+    "Gigis Room",
+    "Front Hall",
+    "Kitchen",
+    "Exterior"
+  ],
+  "Party-Modes": ["On", "Off", "No Change"]
+}

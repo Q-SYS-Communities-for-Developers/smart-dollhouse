@@ -1,62 +1,14 @@
 {
   "Trigger-Names": [
-    "Party Time",
-    "Fridge Open",
-    "Freezer Open",
+    "Fridge Left Open",
+    "Freezer Left Open",
+    "Fridge Closed",
+    "Freezer Closed",
     "Bed Sensor",
-    "Toilet Sensor"
-  ],
-  "Color": [
-    "Daisy Blue",
-    "Brownie Brown",
-    "Junior Purple",
-    "Cadette Red",
-    "Senior Orange",
-    "Ambassador Yellow"
-  ],
-  "SFX": [
-    "Effect 1",
-    "Effect 2",
-    "Effect 3",
-    "Effect 4",
-    "Effect 5",
-    "Effect 6",
-    "Effect 7",
-    "Effect 8",
-    "Random Effect"
-  ],
-  "Music": [
-    "Song 1",
-    "Song 2",
-    "Song 3",
-    "Song 4",
-    "Song 5",
-    "Song 6",
-    "Song 7",
-    "Song 8",
-    "Random Song"
-  ],
-  "Lighting": [
-    "Party On",
-    "Party Over",
-    "House On",
-    "House Off",
-    "Exterior On",
-    "Exterior Off",
-    "House Reset",
-    "Parents Room On",
-    "Rest Room On",
-    "Party Room On",
-    "Great Room On",
-    "Gigis Room On",
-    "Front Hall On",
-    "Kitchen On",
-    "Parents Room Off",
-    "Rest Room Off",
-    "Party Room Off",
-    "Great Room Off",
-    "Gigis Room Off",
-    "Front Hall Off",
-    "Kitchen Off"
+    "Toilet Sensor",
+    "Exterior Sensor",
+    "Knock-Knock",
+    "Party Stop",
+    "Party Start"
   ]
 }
